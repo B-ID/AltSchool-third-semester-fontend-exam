@@ -2,7 +2,7 @@
 
 This is a custom counter application built with Vue JS. It Vuex for the state management and it was designed with Tailwind CSS.
 
-Hosted Link: alt-school-third-semester-fontend-exam.vercel.app
+Hosted Link: https://alt-school-third-semester-fontend-exam.vercel.app/counter
 
 
 ## Recommended IDE Setup
